@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const User = require('../models/User');
-const History = require('../models/History');
+const History = require('../models/history');
 const multer = require('multer');
 const path = require('path');
 
