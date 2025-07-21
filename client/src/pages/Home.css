@@ -1,0 +1,16 @@
+/* Home.css */
+
+/* Home container styles */
+.home-container {
+  text-align: center;
+  height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(#fff8e7, #f0e6ff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.home-container h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
